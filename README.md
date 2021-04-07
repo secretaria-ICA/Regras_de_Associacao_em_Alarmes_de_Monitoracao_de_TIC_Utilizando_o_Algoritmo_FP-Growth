@@ -1,0 +1,1 @@
+# Regras_de_Associacao_em_Alarmes_de_Monitoracao_de_TIC_Utilizando_o_Algoritmo_FP-Growth
